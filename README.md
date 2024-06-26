@@ -33,3 +33,6 @@
 
 9. **Decoder Model:**
    - Concatenates outputs from both models, uses dropout for regularization, and predicts the next word using a Dense layer with softmax activation.
+  
+![Model Image](Picture1.png)
+![Implementation Image](output.png)
